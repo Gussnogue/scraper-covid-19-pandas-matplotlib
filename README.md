@@ -1,0 +1,6 @@
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
+[![requests](https://img.shields.io/badge/requests-HTTP%20client-green)](https://docs.python-requests.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Parsing%20HTML-yellow)](https://www.crummy.com/software/BeautifulSoup/)
+[![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-orange)](https://pandas.pydata.org/)
+[![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-red)](https://matplotlib.org/)
+[![CSV](https://img.shields.io/badge/CSV-Export-lightgrey)](https://en.wikipedia.org/wiki/Comma-separated_values)
